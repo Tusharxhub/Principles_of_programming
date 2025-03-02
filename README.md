@@ -1,5 +1,3 @@
-![Principles of Programming](https://i.imgur.com/your-banner-image.png)
-
 <h1 align="center">⚡ Principles of Programming ⚡</h1>
 
 <p align="center">
@@ -84,3 +82,9 @@ If you find this project helpful, don’t forget to ⭐ **star the repo** and fo
 ---
 
 <h3 align="center">🔥 Happy Coding! 🚀</h3>
+---
+## 📞 Contact
+
+🔹 **Email:** [Email](mailto:t.k.d.dey2033929837@gmail.com)  
+🔹 **Instagram:** [@tushardevx01](https://www.instagram.com/tushardevx01/profilecard/?igsh=MWR5aXI3MnJsODJ4eg==)  
+🔹 **GitHub:** [Tusharxhub](https://github.com/Tusharxhub)
