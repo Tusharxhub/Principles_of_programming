@@ -15,7 +15,6 @@ Welcome to the **Principles of Programming** repository! 🎯
 - [⚙️ Setup Instructions](#setup-instructions)
 - [🚀 Usage](#usage)
 - [🤝 Contributing](#contributing)
-- [📜 License](#license)
 - [📬 Contact](#contact)
 
 ---
@@ -77,11 +76,13 @@ Welcome to the **Principles of Programming** repository! 🎯
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a Pull Request.
 
+
 ---
 
 ## 📬 Contact
 💬 For questions, feedback, or collaboration opportunities, reach out:
-- *[GitHub:**(https://github.com/Tusharxhub)]*
-- **Email:** t.k.d.dey2033929837@gmail.com
+📧 [*Email*](mailto:t.k.d.dey2033929837@gmail.com)  
+🔗 [*GitHub*](https://github.com/Tusharxhub)  
+📸 [*Instagram*](https://www.instagram.com/tushardevx01/)  
 
 > **"Happy Coding and Keep Learning! 🚀"**
